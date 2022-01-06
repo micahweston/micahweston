@@ -9,6 +9,11 @@
 <!-- Languages studied, or studying -->
 <h2> Languages and Frameworks </h2>
 
+<img align="left" alt="CSharp" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+
+<img align="left" alt="dotnetcore" width="45px" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+
 <img align="left" alt="JavaScript" width="45px"            src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
 
 <img align="left" alt="HTML" width="45px"            src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"/>
@@ -22,12 +27,7 @@
 
 <img align="left" alt="Python" width="45px"            src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
 
-<img align="left" alt="JSON" width="45px"            src="https://camo.githubusercontent.com/b6d249a510b6625bc493ee5894e1228ee81974b540565d6d58b23421ecc8d09b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a736f6e2e737667"/>
-
 <img align="left" alt="GIT" width="45px"            src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"/>
-
-<img align="left" alt="Bootstrap" width="45px" 
-     src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/bootstrap.svg"/>
 
 <br>
 <br>
