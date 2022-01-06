@@ -3,7 +3,7 @@
 ![Ireland](https://github.com/micahweston/micahweston/blob/main/IMG_1234.JPEG "Ireland")
 
 <p>
-  I'm Micah, recent graduate from SNHU with a B.S. in Computer Science with a focus in Software Engineering. I am an aspiring software engineer :computer:. I am interested in working as a Full Stack Engineer and am currently learning JavaScript, and React. I am looking for open source projects to contribute to and learn from those around me!  😃
+  I'm Micah, recent graduate from SNHU with a B.S. in Computer Science with a focus in Software Engineering. I am currently working as a Software Engineer at Usio Inc. and am a Certified SCRUM Master. My current focus is on C# using asp.net framework with Blazor and Razor. I am currently learning React as well to increase my knowledge on front end development. I am open to contributing to any open source projects and possible contract work.
 </p>
 
 <!-- Languages studied, or studying -->
